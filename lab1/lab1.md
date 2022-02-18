@@ -24,13 +24,19 @@
 
 计算机网络介绍
 
+<br>
+
 【实验目的】
 
 学习ping, traceroute，git命令
 
+<br>
+
 【实验环境】
 
 Ubuntu 20.04.03 LTS
+
+<br>
 
 【实验内容】
 
@@ -64,6 +70,8 @@ Linux ping 命令用于检测主机。
 
 ![ping](ping.png)
 
+<br>
+
 2 traceroute一台服务器
 
 在Ubuntu下命令为traceroute
@@ -78,7 +86,9 @@ traceroute命令用于追踪数据包在网络上的传输时的全部路径，�
 
 ![traceroute](traceroute.png)
 
-3 用git上床项目、修改项目、删除项目
+<br>
+
+3 用git上传项目
 
 3.1 设置SSH Key
 
@@ -133,6 +143,9 @@ git remote add origin git@github.com:upcAutoLang/Framework-for-NACIT2017.git
 
 > git push origin master
 
+
+<br>
+
 【结论】
 
-通过这两个小实验，学习了Ubuntu中跟计算机网络密切相关的两个命令，提高了对计算机网络的兴趣。计算机光听理论是学不懂的，以后还需要课下多多实践。
+通过这两个小实验，学习了Ubuntu中跟计算机网络密切相关的两个命令：ping, traceroute, 以及git命令，提高了对计算机网络的兴趣。计算机光听理论是学不懂的，以后还需要课下多多实践。
